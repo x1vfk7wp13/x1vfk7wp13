@@ -1,4 +1,6 @@
-<img  src="/earth.gif" title="REFERENCE: [11] By commotion.tv or @motionaddicts Available at: http://thecommotion.tv/post/117120739614/earf Non-commercial purposes only." style="clip-path: circle();" width="25" height="25" /> Hello! I'm Uno, a software engineer from <a href="https://en.wikipedia.org/wiki/Ulaanbaatar">Ulaanbaatar, Mongolia</a>. I have 4+ years of experience in developing desktop and mobile applications. I enjoy working on projects that challenge me to learn and grow.
+<image-crop src="https://github.com/unobatbayar/unobatbayar/blob/main/earth.gif" title="REFERENCE: [11] By commotion.tv or @motionaddicts Available at: http://thecommotion.tv/post/117120739614/earf Non-commercial purposes only." style="clip-path: circle();" width="25" height="25" rounded> </image-crop>
+
+Hello! I'm Uno, a software engineer from <a href="https://en.wikipedia.org/wiki/Ulaanbaatar">Ulaanbaatar, Mongolia</a>. I have 4+ years of experience in developing desktop and mobile applications. I enjoy working on projects that challenge me to learn and grow.
 
 <!--
 **unobatbayar/unobatbayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
