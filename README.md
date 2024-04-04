@@ -1,3 +1,4 @@
+<style>
 .image-cropper {
   width: 100px;
   height: 100px;
@@ -12,6 +13,7 @@ img {
   height: 100%;
   width: auto;
 }
+</style>
 
 <div class="image-cropper">
 <img src="https://github.com/unobatbayar/unobatbayar/blob/main/earth.gif" title="REFERENCE: [11] By commotion.tv or @motionaddicts Available at: http://thecommotion.tv/post/117120739614/earf Non-commercial purposes only." style="clip-path: circle();" class="rounded" width="25" height="25" rounded> </img>
