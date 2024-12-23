@@ -2,4 +2,10 @@
 
 I'm a software engineer from <a href="https://en.wikipedia.org/wiki/Ulaanbaatar">Ulaanbaatar, Mongolia</a>. 
 
-Try out my <a href="https://apps.apple.com/us/developer/usukhbayar-batbayar/id1532655863">apps</a>! 📱 I aim to create something meaningful for people to enjoy. 
+I strive to create meaningful experiences that people can truly enjoy. With a background in mobile app development, I’m currently expanding my skills by learning web development.
+
+Try out my <a href="https://apps.apple.com/us/developer/usukhbayar-batbayar/id1532655863">apps</a>! 📱 
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,androidstudio,apple,unity,reactivex,py,cs,php,swift,cpp" />
+</a>
