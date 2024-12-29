@@ -1,4 +1,4 @@
-### Hello! I'm Uno 👋
+## Hello! I'm Uno 👋
 
 I'm a software engineer from Mongolia. I strive to create meaningful experiences that people can truly enjoy. With a background in mobile apps, I’m currently expanding my skills by learning web development.
 
