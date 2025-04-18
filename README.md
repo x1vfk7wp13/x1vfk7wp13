@@ -4,6 +4,6 @@ I'm a software engineer from Mongolia. I strive to create meaningful experiences
 
 ### Try out my <a href="https://apps.apple.com/us/developer/usukhbayar-batbayar/id1532655863">apps</a>! 📱 
 
-<a href="https://skillicons.dev">
+<a href="https://unobatbayar.github.io">
   <img src="https://skillicons.dev/icons?i=apple,unity,reactivex,swift,nextjs,ts,tailwind,py,fastapi,postgres,docker" />
 </a>
