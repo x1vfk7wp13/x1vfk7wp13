@@ -1,4 +1,4 @@
-Hey there! I'm a software engineer and privacy enthusiast, passionate about building technology that puts people back in control of their lives.
+Hey there! I'm a software engineer and privacy enthusiast.
 
 
 <a href="https://unobatbayar.github.io">
