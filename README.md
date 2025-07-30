@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center" href="https://unobatbayar.github.io" target="_blank">
   <img src="https://github.com/unobatbayar/unobatbayar/blob/main/planet.gif?raw=true" width="100" />
-</p>
+</a>
 
 ### Hey, I'm <a href="https://unobatbayar.github.io" target="_blank">Usukhbayar Batbayar</a> 👋
 
