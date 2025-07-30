@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/unobatbayar/unobatbayar/blob/main/earth.gif?raw=true" width="40%" />
+  <img src="https://github.com/unobatbayar/unobatbayar/blob/main/earth.gif?raw=true" width="40" />
 </p>
 
 
