@@ -3,7 +3,7 @@
 </p>
 
 ### Hey, I'm <a href="https://unobatbayar.github.io" target="_blank">Usukhbayar Batbayar</a> 👋
-#### Experienced software engineer with 6+ years building mobile and web apps.
+### Experienced software engineer with 6+ years building mobile and web apps.
 
 <div>
   <img src="https://skillicons.dev/icons?i=docker,apple,unity,reactivex,swift,nextjs,ts,tailwind,py,fastapi,postgres" />
