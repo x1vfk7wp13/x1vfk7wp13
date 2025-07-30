@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/unobatbayar/unobatbayar/blob/main/planet.gif?raw=true" width="120" />
+  <img src="https://github.com/unobatbayar/unobatbayar/blob/main/planet.gif?raw=true" width="100" />
 </p>
 
 ### Hi there, I'm <a href="https://unobatbayar.github.io" target="_blank">Usukhbayar Batbayar</a> 👋
