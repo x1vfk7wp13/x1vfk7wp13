@@ -5,7 +5,6 @@
 -->
 
 ## Hey there 👋
-
 I'm Uno, a passionate engineer who loves building cool projects, learning new technologies, and solving real-world problems with code.
 
 <div>
