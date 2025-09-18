@@ -4,7 +4,6 @@
 </p>
 -->
 
-## Hey there 👋
 <div>
   <img src="https://skillicons.dev/icons?i=docker,apple,unity,reactivex,swift,nextjs,ts,tailwind,py,fastapi,postgres" />
 </div>
